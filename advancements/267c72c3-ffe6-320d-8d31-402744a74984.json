@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-02-08 21:21:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-31 20:34:05 +0300"
@@ -47,9 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:30:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-01-31 20:34:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-08 21:41:30 +0300"
     },
     "done": true
   },
@@ -86,6 +104,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-31 20:34:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-02-08 21:27:53 +0300"
     },
     "done": true
   },
@@ -170,6 +194,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-01-31 20:15:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-08 21:51:18 +0300"
     },
     "done": true
   },
@@ -389,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-02-08 21:23:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 20:31:31 +0300"
@@ -410,6 +446,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 20:31:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2021-02-08 21:51:18 +0300"
     },
     "done": true
   },
@@ -451,8 +493,12 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2021-02-08 21:21:21 +0300",
       "twilight_oak_log": "2021-02-06 22:57:00 +0300",
-      "twilight_oak_sapling": "2021-02-06 21:04:49 +0300"
+      "dark_sapling": "2021-02-08 21:53:32 +0300",
+      "twilight_oak_leaves": "2021-02-08 21:24:12 +0300",
+      "twilight_oak_sapling": "2021-02-06 21:04:49 +0300",
+      "mangrove_sapling": "2021-02-08 21:23:00 +0300"
     },
     "done": false
   },
@@ -573,6 +619,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-31 20:34:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2021-02-08 21:21:21 +0300"
     },
     "done": true
   },
@@ -822,6 +874,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 20:31:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2021-02-08 21:21:21 +0300"
     },
     "done": true
   },
@@ -1166,6 +1224,13 @@
     },
     "done": true
   },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_stone": "2021-02-08 21:33:28 +0300",
+      "gear_wood": "2021-02-08 21:33:28 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-01-31 20:46:56 +0300"
@@ -1298,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-08 21:21:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-01-31 20:23:01 +0300"
@@ -1409,6 +1480,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2021-01-31 20:49:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-08 21:41:30 +0300"
     },
     "done": true
   },
@@ -1682,6 +1759,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-02-08 21:57:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-02-08 21:27:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-01-31 20:14:26 +0300"
@@ -1700,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:31:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-01-31 20:34:06 +0300"
@@ -1709,6 +1804,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-01-31 20:14:26 +0300"
+    },
+    "done": true
+  },
+  "buildcraftlib:recipes/guide_book": {
+    "criteria": {
+      "has_paper": "2021-02-08 21:57:00 +0300"
     },
     "done": true
   },
@@ -1838,6 +1939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-02-08 21:27:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-02 21:54:28 +0300"
@@ -1877,6 +1984,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-01-31 20:56:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2021-02-08 21:51:18 +0300"
     },
     "done": true
   },
@@ -1931,6 +2044,18 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-01-31 20:11:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-08 21:21:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:30:36 +0300"
     },
     "done": true
   },
