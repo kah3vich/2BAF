@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-16 21:31:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-02 21:58:03 +0300"
@@ -261,6 +267,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-02 21:58:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-02-16 18:36:28 +0300"
     },
     "done": true
   },
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-02-18 15:21:15 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2021-02-04 21:22:22 +0300"
@@ -594,6 +612,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/scepters": {
+    "criteria": {
+      "2": "2021-02-18 13:47:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-02-04 16:29:55 +0300"
@@ -639,6 +663,12 @@
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
       "discover": "2021-02-06 20:42:39 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/zombie_scepter": {
+    "criteria": {
+      "scepter": "2021-02-18 13:47:58 +0300"
     },
     "done": true
   },
@@ -702,6 +732,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "4": "2021-02-18 13:38:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-02-02 22:17:22 +0300"
@@ -725,6 +761,12 @@
       "has_the_recipe": "2021-02-03 20:28:26 +0300"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2021-02-18 13:47:53 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
@@ -762,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2021-02-16 22:06:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-02 21:58:40 +0300"
@@ -783,6 +831,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2021-02-02 22:17:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-02-18 14:06:26 +0300"
     },
     "done": true
   },
@@ -951,6 +1005,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2021-02-07 20:14:18 +0300",
+      "shulker": "2021-02-16 18:46:48 +0300",
+      "wither_skeleton": "2021-02-18 16:27:10 +0300",
       "zombie_villager": "2021-02-04 21:36:14 +0300",
       "magma_cube": "2021-02-03 21:43:07 +0300",
       "skeleton": "2021-02-02 22:14:55 +0300",
@@ -961,7 +1017,8 @@
       "witch": "2021-02-02 22:09:24 +0300",
       "spider": "2021-02-03 20:21:21 +0300",
       "ghast": "2021-02-04 17:58:02 +0300",
-      "creeper": "2021-02-04 16:29:54 +0300"
+      "creeper": "2021-02-04 16:29:54 +0300",
+      "enderman": "2021-02-16 22:22:49 +0300"
     },
     "done": false
   },
@@ -980,6 +1037,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-02-12 18:31:40 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/tiny_bird": {
+    "criteria": {
+      "slay": "2021-02-18 13:38:08 +0300"
     },
     "done": true
   },
@@ -1010,6 +1073,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-04 16:31:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-16 22:29:17 +0300"
     },
     "done": true
   },
@@ -1112,6 +1181,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-02 21:58:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-16 21:31:32 +0300"
     },
     "done": true
   },
@@ -1355,6 +1430,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/lich": {
+    "criteria": {
+      "hurt": "2021-02-18 13:47:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-02-03 20:52:00 +0300"
@@ -1460,6 +1541,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-02 21:58:40 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/squirrel": {
+    "criteria": {
+      "slay": "2021-02-18 13:38:13 +0300"
     },
     "done": true
   },
@@ -1631,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-02-16 18:46:21 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "0": "2021-02-12 17:23:44 +0300"
@@ -1715,6 +1808,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2021-02-18 13:43:03 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/arthopods": {
     "criteria": {
       "1": "2021-02-06 20:35:11 +0300"
@@ -1780,6 +1879,7 @@
       "forest_hills": "2021-02-02 22:11:39 +0300",
       "savanna": "2021-02-02 21:53:20 +0300",
       "plains": "2021-02-02 22:07:05 +0300",
+      "jungle_hills": "2021-02-16 18:33:17 +0300",
       "savanna_rock": "2021-02-04 17:24:53 +0300",
       "taiga": "2021-02-02 22:12:39 +0300",
       "taiga_hills": "2021-02-02 22:12:57 +0300",
@@ -1788,6 +1888,7 @@
       "extreme_hills": "2021-02-04 17:45:48 +0300",
       "roofed_forest": "2021-02-04 21:53:13 +0300",
       "river": "2021-02-02 21:53:18 +0300",
+      "jungle": "2021-02-16 18:27:48 +0300",
       "desert": "2021-02-02 22:01:01 +0300",
       "stone_beach": "2021-02-07 20:34:34 +0300"
     },
@@ -1810,6 +1911,12 @@
       "0": "2021-02-12 16:48:32 +0300"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2021-02-18 13:47:53 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
@@ -1877,6 +1984,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2021-02-18 16:29:43 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2021-02-02 21:52:31 +0300"
@@ -1901,9 +2014,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-16 21:31:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-16 21:30:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-02 21:58:40 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich_zombies": {
+    "criteria": {
+      "hurt_alt": "2021-02-18 13:47:09 +0300"
     },
     "done": true
   },
@@ -1955,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-02-16 18:50:16 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-02-03 21:35:42 +0300"
@@ -2003,6 +2140,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2021-02-18 13:47:53 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-02-03 20:10:50 +0300"
@@ -2041,9 +2184,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2021-02-18 13:47:53 +0300",
       "kill_naga": "2021-02-12 17:26:56 +0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
@@ -2066,6 +2210,12 @@
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2021-02-06 20:35:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-02-17 16:43:52 +0300"
     },
     "done": true
   },

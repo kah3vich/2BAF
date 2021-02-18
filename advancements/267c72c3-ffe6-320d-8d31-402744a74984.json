@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "strirling_engine": "2021-02-17 22:38:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 20:31:31 +0300"
@@ -1012,6 +1018,7 @@
       "forest_hills": "2021-01-31 20:21:34 +0300",
       "savanna": "2021-01-31 20:11:35 +0300",
       "plains": "2021-02-02 22:03:41 +0300",
+      "jungle_hills": "2021-02-16 18:31:48 +0300",
       "mesa_clear_rock": "2021-02-15 21:19:04 +0300",
       "savanna_rock": "2021-01-31 20:29:20 +0300",
       "ice_mountains": "2021-02-15 20:49:44 +0300",
@@ -1024,6 +1031,7 @@
       "roofed_forest": "2021-02-04 18:20:58 +0300",
       "cold_beach": "2021-02-15 21:00:55 +0300",
       "river": "2021-01-31 20:11:33 +0300",
+      "jungle": "2021-02-16 18:30:09 +0300",
       "desert": "2021-01-31 20:28:06 +0300",
       "stone_beach": "2021-02-02 22:13:36 +0300"
     },
@@ -2113,6 +2121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2021-02-16 22:31:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2021-01-31 20:34:06 +0300"
@@ -2152,6 +2166,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-01-31 20:56:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-02-17 21:40:25 +0300"
     },
     "done": true
   },
